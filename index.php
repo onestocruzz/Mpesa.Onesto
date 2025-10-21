@@ -1,3 +1,3 @@
 <?php 
 
-echo "DARAJA API BY UMESKIA SOFWARE";
+echo "DARAJA API BY FLIPLOAN";
